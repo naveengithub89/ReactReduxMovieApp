@@ -1,3 +1,4 @@
+#The purpose of this application is to search for any movie in the IMDB database.
 
 1) This was inspired by Traversy Media's video. This was built using React, Redux and ES6.
 
